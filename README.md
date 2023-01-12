@@ -32,8 +32,21 @@
 - 수업시간에 배운 내용을 활용하여 Java를 활용한 Servlet을 이해하는것을 목표로 삼음
 - 추가적으로 필요하다고 생각되는 기능은 서로가 따로 어떻게 구현할지 생각하여 구현하려 노력하였음
 
-# 6. 주요 기능
+# 6. 기능 정의서 주소
+- https://docs.google.com/spreadsheets/d/
 
+# 7. ERD 주소
+- https://www.erdcloud.com/d/Ddzq5p9T4MwBZKBHT
 
-# 7. 아쉬었던점
+# 8. 메인화면
+- 
+
+# . 주요 기능
+-
+-
+-
+-
+-
+
+# . 아쉬었던점
 - 
