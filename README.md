@@ -35,7 +35,10 @@
 # 6. 기능 정의서 주소
 - https://docs.google.com/spreadsheets/d/
 
-# 7. ERD 주소
+# 7. 화면 정의서 주소 (Kakao oven)
+- 
+
+# 8. ERD 주소
 - https://www.erdcloud.com/d/Ddzq5p9T4MwBZKBHT
 
 # 8. 메인화면
