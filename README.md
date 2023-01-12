@@ -1,4 +1,4 @@
-# GDJ56 - SemiProject 운동행
+# GDJ56 - SemiProject: 운동행
 
 
 # 사용언어 및 도구
