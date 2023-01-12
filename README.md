@@ -43,7 +43,7 @@
 - https://www.erdcloud.com/d/Ddzq5p9T4MwBZKBHT
 
 # 9. 메인화면
-- 
+- ![메인2](https://user-images.githubusercontent.com/117968464/212039554-dcb4fdf8-0f57-4f9d-bd2a-bf2dbcec2b49.PNG)
 
 # 10. 주요 기능
 -
