@@ -1,4 +1,4 @@
-# GDJ56 - SemiProject: 운동행[GDJ56_wdh_semi]
+# SemiProject: 운동행[GDJ56_wdh_semi]
 
 # 1. 개요
 
