@@ -36,7 +36,7 @@
 - https://docs.google.com/spreadsheets/d/
 
 # 7. 화면 정의서 주소 (Kakao oven)
-- 
+- https://ovenapp.io/project/TgI7QbVTcYtsXWJDbQy6TpQxnra2A3rC#fyo
 
 # 8. ERD 주소
 - https://www.erdcloud.com/d/Ddzq5p9T4MwBZKBHT
